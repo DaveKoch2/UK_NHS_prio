@@ -37,7 +37,7 @@ $boost=9,site=nhsbt.nhs.uk
 $boost=9,site=nhscharitiestogether.co.uk
 $boost=9,site=nhsinform.scot
 $boost=9,site=nhsprofessionals.nhs.uk
-$boost=9,site=nice.org.uk
+$boost=3,site=nice.org.uk
 $boost=9,site=nwas.nhs.uk
 $boost=9,site=odsdatasearchandexport.nhs.uk
 $boost=9,site=organdonation.nhs.uk

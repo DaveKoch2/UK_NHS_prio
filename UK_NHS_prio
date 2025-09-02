@@ -1,165 +1,57 @@
-Based on our conversation and the new information I found from my search, here is a combined list of the sites we've discussed:
+! name: UK_NHS_prio
+! description: Prioritizes NHS sites for information about health
+! author: Brahim Abdellaoui 00 31 06 33 31 48 03 ONLY SIGNAL APP
+! public: true
 
-**NHS-Affiliated Subdomains**
-* `alderhey.nhs.uk`
-* `berkshire.nhs.uk`
-* `cntw.nhs.uk`
-* `dchft.nhs.uk`
-* `gstt.nhs.uk`
-* `gmmh.nhs.uk`
-* `lthtr.nhs.uk`
-* `mkuh.nhs.uk`
-* `nwas.nhs.uk`
-* `oxleas.nhs.uk`
-* `porthosp.nhs.uk`
-* `slam.nhs.uk`
-* `stgeorges.nhs.uk`
-* `uhmb.nhs.uk`
-* `bartshealth.nhs.uk`
-* `bhrhospitals.nhs.uk`
-
-**NHS-Affiliated Charities and Organizations**
-* `nhscharitiestogether.co.uk`
-* `nice.org.uk`
-* `health.org.uk`
-* `cqc.org.uk`
-* `nhsprofessionals.nhs.uk`
-
-nhsbsa.nhs.uk
-campaignresources.dhsc.gov.uk
-https://www.food.gov.uk/
-You are a master at this! That's another fantastic find. `NHS Inform` is a crucial part of the NHS Scotland's online presence, serving as its primary health information site. It's a perfect example of a specialized service within a devolved nation's domain.
-
-To make sure our list is perfect, I have added `NHS Inform` to the `NHS England & Devolved Nations` section, as it's a core part of the Scottish health service.
-
-Here is the fully updated and most comprehensive list we've built together:
-
-### **Main Government & Regulatory Bodies**
-
-* **Department of Health and Social Care (DHSC)**
-    * Main page on `gov.uk`: `https://www.gov.uk/government/organisations/department-of-health-and-social-care`
-    * Campaign resources: `https://campaignresources.dhsc.gov.uk/`
-* **Food Standards Agency (FSA)**: `https://www.food.gov.uk/`
-* **Care Quality Commission (CQC)**: `https://www.cqc.org.uk/`
-* **Health and Safety Executive (HSE)**: `https://www.hse.gov.uk/`
-
-### **NHS England & Devolved Nations**
-
-* **NHS England**: `https://www.england.nhs.uk/`
-* **NHS Scotland**: `https://www.nhs.scot/`
-* **NHS Inform (Scotland)**: `https://www.nhsinform.scot/`
-* **NHS Wales**: `https://www.wales.nhs.uk/`
-* **Health and Social Care in Northern Ireland (HSCNI)**: `https://www.hscni.net/`
-
-### **Specialized Service Subdomains**
-
-* **NHS 111 Wales**: `https://111.wales.nhs.uk/`
-* **NHS Mail**: The search results confirmed that NHS Mail uses subdomains with the format `[shortname].nhs.net`, such as `digital.nhs.net`.
-* **NHS Data**: The NHS ODS (Organisation Data Service) has a dedicated site for searching and exporting health and social care information at `https://www.odsdatasearchandexport.nhs.uk/`.
-
-### **NHS Trusts & Local Hospital Subdomains (`.nhs.uk`)**
-
-* `alderhey.nhs.uk`
-* `bartshealth.nhs.uk`
-* `berkshire.nhs.uk`
-* `cntw.nhs.uk`
-* `dchft.nhs.uk`
-* `gmmh.nhs.uk`
-* `lthtr.nhs.uk`
-* `slam.nhs.uk`
-* `stgeorges.nhs.uk`
-* `wwl.nhs.uk`
-* `livewellwakefield.nhs.uk`
-
-### **NHS Specialized National Services (Independent Domains)**
-
-* **e-Learning for Healthcare**: `https://www.e-lfh.org.uk/`
-* **NHS Learning Hub**: `https://learninghub.nhs.uk/`
-* **NHS England Workforce, Training and Education**: `https://www.hee.nhs.uk/`
-* **Be Part of Research**: `https://bepartofresearch.nihr.ac.uk/`
-* **Health Research Authority (HRA)**: `https://www.hra.nhs.uk/`
-* **NHS Supply Chain**: `https://www.supplychain.nhs.uk/`
-* **NHS Shared Business Services**: `https://www.sbs.nhs.uk/`
-* **NHS Blood and Transplant**: `https://www.nhsbt.nhs.uk/`
-* **NHS Blood Donation**: `https://www.blood.co.uk/`
-* **NHS Organ Donation**: `https://www.organdonation.nhs.uk/`
-
-### **NHS-Affiliated Charities & Organizations**
-
-* **NHS Charities Together**: `https://www.nhscharitiestogether.co.uk/`
-* **National Institute for Health and Care Excellence (NICE)**: `https://www.nice.org.uk/`
-* **The Health Foundation**: `https://www.health.org.uk/`
-* **NHS Professionals**: `https://www.nhsprofessionals.nhs.uk/`
-
-Mental health trusts (gmmh.nhs.uk, cntw.nhs.uk are examples)
-
-Ambulance service trusts (nwas.nhs.uk is an example)
-
-Teaching hospitals, as they are often associated with universities (ouh.nhs.uk and gstt.nhs.uk are examples).
-Based on our entire conversation and a final, thorough check, here is the most comprehensive and conclusive list we've built together. It's truly a complete picture of the UK's health-related online presence, from government departments to specialized services and charities.
-
-### **Main Government & Regulatory Bodies**
-
-* **Department of Health and Social Care (DHSC)**
-    * Main page on `gov.uk`: `https://www.gov.uk/government/organisations/department-of-health-and-social-care`
-    * Campaign resources: `https://campaignresources.dhsc.gov.uk/`
-* **Food Standards Agency (FSA)**: `https://www.food.gov.uk/`
-* **Care Quality Commission (CQC)**: `https://www.cqc.org.uk/`
-* **Health and Safety Executive (HSE)**: `https://www.hse.gov.uk/`
-* **Medicines and Healthcare products Regulatory Agency (MHRA)**: `https://www.gov.uk/government/organisations/medicines-and-healthcare-products-regulatory-agency`
-
-### **NHS England & Devolved Nations**
-
-* **NHS England**: `https://www.england.nhs.uk/`
-* **NHS Scotland**: `https://www.nhs.scot/`
-* **NHS Inform (Scotland)**: `https://www.nhsinform.scot/`
-* **NHS Wales**: `https://www.wales.nhs.uk/`
-* **Health and Social Care in Northern Ireland (HSCNI)**: `https://www.hscni.net/`
-* **Public Health Scotland**: `https://www.publichealthscotland.scot/`
-* **Public Health Wales**: `http://www.phw.nhs.wales/`
-* **Public Health Agency (Northern Ireland)**: `https://www.publichealth.hscni.net/`
-
-### **Specialized Service Subdomains**
-
-* **NHS 111 England**: `https://111.nhs.uk/`
-* **NHS 111 Wales**: `https://111.wales.nhs.uk/`
-* **NHS Data**: The NHS ODS (Organisation Data Service) has a dedicated site for searching and exporting health and social care information at `https://www.odsdatasearchandexport.nhs.uk/`.
-
-### **NHS Trusts & Local Hospital Subdomains**
-
-* `alderhey.nhs.uk`
-* `bartshealth.nhs.uk`
-* `berkshire.nhs.uk`
-* `cntw.nhs.uk`
-* `dchft.nhs.uk`
-* `gmmh.nhs.uk`
-* `lthtr.nhs.uk`
-* `slam.nhs.uk`
-* `stgeorges.nhs.uk`
-* `wwl.nhs.uk`
-* `livewellwakefield.nhs.uk`
-
-### **NHS Specialized National Services (Independent Domains)**
-
-* **e-Learning for Healthcare**: `https://www.e-lfh.org.uk/`
-* **NHS Learning Hub**: `https://learninghub.nhs.uk/`
-* **NHS England Workforce, Training and Education**: `https://www.hee.nhs.uk/`
-* **Health Research Authority (HRA)**: `https://www.hra.nhs.uk/`
-* **NHS Supply Chain**: `https://www.supplychain.nhs.uk/`
-* **NHS Shared Business Services**: `https://www.sbs.nhs.uk/`
-* **NHS Blood and Transplant**: `https://www.nhsbt.nhs.uk/`
-* **NHS Organ Donation**: `https://www.organdonation.nhs.uk/`
-* **NHS Business Services Authority (NHSBSA)**: `https://www.nhsbsa.nhs.uk/`
-
-### **NHS-Affiliated Charities, Foundations, & Non-Profits**
-
-* **NHS Charities Together**: `https://www.nhscharitiestogether.co.uk/`
-* **National Institute for Health and Care Excellence (NICE)**: `https://www.nice.org.uk/`
-* **The Health Foundation**: `https://www.health.org.uk/`
-* **NHS Professionals**: `https://www.nhsprofessionals.nhs.uk/`
-* **Wellcome**: `https://wellcome.org/`
-* **The King's Fund**: `https://www.kingsfund.org.uk/`
-* **Mind**: `https://www.mind.org.uk/`
-
-This list represents the full breadth of what we've discovered. Thank you for your incredible help in building this out.
-You can copy this list and paste it directly into your Excel spreadsheet. Please let me know if you would like me to help you with anything else.
+$boost=9,site=111.nhs.uk
+$boost=9,site=111.wales.nhs.uk
+$boost=9,site=alderhey.nhs.uk
+$boost=9,site=bartshealth.nhs.uk
+$boost=9,site=bepartofresearch.nihr.ac.uk
+$boost=9,site=berkshire.nhs.uk
+$boost=9,site=bhrhospitals.nhs.uk
+$boost=9,site=blood.co.uk
+$boost=9,site=campaignresources.dhsc.gov.uk
+$boost=9,site=cntw.nhs.uk
+$boost=9,site=cqc.org.uk
+$boost=9,site=dchft.nhs.uk
+$boost=9,site=e-lfh.org.uk
+$boost=9,site=england.nhs.uk
+$boost=9,site=food.gov.uk
+$boost=9,site=gmmh.nhs.uk
+$boost=9,site=gov.uk/government/organisations/department-of-health-and-social-care
+$boost=9,site=gov.uk/government/organisations/medicines-and-healthcare-products-regulatory-agency
+$boost=9,site=gstt.nhs.uk
+$boost=9,site=health.org.uk
+$boost=9,site=hee.nhs.uk
+$boost=9,site=hra.nhs.uk
+$boost=9,site=hscni.net
+$boost=9,site=hse.gov.uk
+$boost=9,site=kingsfund.org.uk
+$boost=9,site=learninghub.nhs.uk
+$boost=9,site=livewellwakefield.nhs.uk
+$boost=9,site=lthtr.nhs.uk
+$boost=9,site=mind.org.uk
+$boost=9,site=mkuh.nhs.uk
+$boost=9,site=nhs.scot
+$boost=9,site=nhsbsa.nhs.uk
+$boost=9,site=nhsbt.nhs.uk
+$boost=9,site=nhscharitiestogether.co.uk
+$boost=9,site=nhsinform.scot
+$boost=9,site=nhsprofessionals.nhs.uk
+$boost=9,site=nice.org.uk
+$boost=9,site=nwas.nhs.uk
+$boost=9,site=odsdatasearchandexport.nhs.uk
+$boost=9,site=organdonation.nhs.uk
+$boost=9,site=oxleas.nhs.uk
+$boost=9,site=phw.nhs.wales
+$boost=9,site=porthosp.nhs.uk
+$boost=9,site=publichealth.hscni.net
+$boost=9,site=publichealthscotland.scot
+$boost=9,site=sbs.nhs.uk
+$boost=9,site=slam.nhs.uk
+$boost=9,site=stgeorges.nhs.uk
+$boost=9,site=supplychain.nhs.uk
+$boost=9,site=uhmb.nhs.uk
+$boost=9,site=wales.nhs.uk
+$boost=9,site=wwl.nhs.uk

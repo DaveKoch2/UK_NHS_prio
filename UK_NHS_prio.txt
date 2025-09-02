@@ -53,3 +53,4 @@ $boost=9,site=supplychain.nhs.uk
 $boost=9,site=uhmb.nhs.uk
 $boost=9,site=wales.nhs.uk
 $boost=9,site=wwl.nhs.uk
+$boost=9,site=kmcc.nhs.uk

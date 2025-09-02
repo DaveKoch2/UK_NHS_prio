@@ -3,6 +3,8 @@
 ! author: Brahim Abdellaoui 00 31 06 33 31 48 03 ONLY SIGNAL APP
 ! public: true
 
+
+$boost=9,site=nhs.uk
 $boost=9,site=111.nhs.uk
 $boost=9,site=111.wales.nhs.uk
 $boost=9,site=alderhey.nhs.uk
